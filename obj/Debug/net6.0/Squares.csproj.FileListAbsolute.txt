@@ -1,0 +1,15 @@
+E:\VSProject\Squares\bin\Debug\net6.0\Squares.exe
+E:\VSProject\Squares\bin\Debug\net6.0\Squares.deps.json
+E:\VSProject\Squares\bin\Debug\net6.0\Squares.runtimeconfig.json
+E:\VSProject\Squares\bin\Debug\net6.0\Squares.dll
+E:\VSProject\Squares\bin\Debug\net6.0\ref\Squares.dll
+E:\VSProject\Squares\bin\Debug\net6.0\Squares.pdb
+E:\VSProject\Squares\obj\Debug\net6.0\Squares.csproj.AssemblyReference.cache
+E:\VSProject\Squares\obj\Debug\net6.0\Squares.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSProject\Squares\obj\Debug\net6.0\Squares.AssemblyInfoInputs.cache
+E:\VSProject\Squares\obj\Debug\net6.0\Squares.AssemblyInfo.cs
+E:\VSProject\Squares\obj\Debug\net6.0\Squares.csproj.CoreCompileInputs.cache
+E:\VSProject\Squares\obj\Debug\net6.0\Squares.dll
+E:\VSProject\Squares\obj\Debug\net6.0\ref\Squares.dll
+E:\VSProject\Squares\obj\Debug\net6.0\Squares.pdb
+E:\VSProject\Squares\obj\Debug\net6.0\Squares.genruntimeconfig.cache
